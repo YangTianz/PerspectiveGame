@@ -1,0 +1,6 @@
+/Library
+/Assets/skyboxes
+/.vs
+
+*.ide-wal
+*.csproj

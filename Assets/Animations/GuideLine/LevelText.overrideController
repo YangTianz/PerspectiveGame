@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LevelText
+  m_Controller: {fileID: 9100000, guid: 79b3f08f5195d504db6613272c34ff6c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5f4e382e0a8a72746a4a5a736921f9e8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f5c46d2316322234ebe8d427527657af, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 74361ed808b32e54990fbe2c9d105dc5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f67b17abe1c3bfe42a824a8e27f6fea6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 664a828072077d34e818b9bc49f434ce, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 211d02e1dd108ca4ebfe06ad1ba36e4c, type: 2}
